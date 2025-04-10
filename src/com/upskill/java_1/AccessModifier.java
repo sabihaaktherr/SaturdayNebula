@@ -8,7 +8,7 @@ public class AccessModifier {
 	// default= classes in the same package can access
 	
 	
-   public String name="SabihaAktherr";// public=access any class
+   public String name="SabihaAktherrr";// public=access any class
    
    private int age=25;//private= only same class can access 
    
