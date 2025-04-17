@@ -12,7 +12,8 @@ public class Problem_1 {
 			System.out.println(i+ " ");
 		}
 		
-		
+		// git push
+	   // git commit
 		
 
 	}
