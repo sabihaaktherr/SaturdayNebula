@@ -12,6 +12,7 @@ public class DataType extends Variables {
 	    
 	    String city="New York";
         String state = "NY";
+        String region = "North America";
 		 System.out.println(city);
 		 System.out.println(state);
 		
