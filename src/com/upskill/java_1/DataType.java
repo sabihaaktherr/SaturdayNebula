@@ -6,12 +6,13 @@ public class DataType extends Variables {
 		System.out.println("Hello this is Sabiha");
 		
 		int a=645353455;
-		int b=36845345;
+		int b=3684534;
 	    int c= a+b;
 	    System.out.println(c); 
 	    
 	    String city="New York";
         String state = "NY";
+        String region = "North America";
 		 System.out.println(city);
 		 System.out.println(state);
 		

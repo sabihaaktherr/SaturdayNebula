@@ -22,7 +22,7 @@ public class Exception_TryCatchFinale {
 	
 	
 	public static void main(String[] args) {
-		
+// Build in Exception-ArrayIndexOutOfBoundsException 		
 		try {
 		int[] ageNabula=new int[] {24,25,28,30,32};
 		

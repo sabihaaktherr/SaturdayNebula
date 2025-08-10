@@ -56,7 +56,7 @@ public static void nj(String senator) {
 	}
 
 public static void ct(String senator) {
-	String city ="Hartford";
+	String city ="Stampford";
 	String county="Fairfield";
 	
 	System.out.println(city);

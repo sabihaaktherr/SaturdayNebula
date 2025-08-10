@@ -10,8 +10,8 @@ write a program to compare those numbers and send message that one number is big
 	static int b=45;
 
 	public static void main(String[] args) {
-		functions(0);
-		functions1(0);
+//		functions(0);
+//		functions1(0);
      System.out.println("a is grater than b:" + (a>b));
      System.out.println("b is grater than a:" + (b>a));
      System.out.println("b is less than a:" + (b<a));
