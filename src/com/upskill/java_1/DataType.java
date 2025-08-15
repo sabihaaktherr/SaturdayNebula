@@ -6,7 +6,7 @@ public class DataType extends Variables {
 		System.out.println("Hello this is Sabiha");
 		
 		int a=645353455;
-		int b=3684534;
+		int b=36845347777;
 	    int c= a+b;
 	    System.out.println(c); 
 	    
